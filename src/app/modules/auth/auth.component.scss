@@ -7,7 +7,7 @@
 .shadow {
   margin: 0;
   overflow: hidden;
-  width: 100%;
+  width: 100%; 
   background-color: $white;
   display: flex;
   align-items: center;
@@ -23,6 +23,7 @@
   max-width: 55px;
   margin-top: 0px;
   height: min-content;
+  border-radius:50px;
 }
 .text{
   color: $white;
