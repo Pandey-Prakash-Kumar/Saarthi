@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "target": "ES6",
+      "module": "CommonJS",
+      "outDir": "./dist",
+      "strict": true
+    },
+    "include": ["./**/*.ts"],
+    "exclude": ["node_modules"]
+  }
